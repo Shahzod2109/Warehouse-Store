@@ -1,0 +1,12 @@
+﻿{
+  "solution": {
+    "path": "..\\RiderProjects\\WarehouseStore\\WarehouseStore.sln",
+    "projects": [
+      "Application\\Application.csproj",
+      "Contract\\Contract.csproj",
+      "Domain\\Domain.csproj",
+      "Infrastructures\\Infrastructures.csproj",
+      "Web.API\\Web.API.csproj"
+    ]
+  }
+}
